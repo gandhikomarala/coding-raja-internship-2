@@ -17,7 +17,7 @@ SoundPulse Studio — Digital Audio Spectrum Visualizer & DAW is a production-gr
 
 ### 1. Set Up Python Virtual Environment
 ```bash
-git clone gandhikomarala/coding-raja-internship-2.git
+git clone git@github.com:gandhikomarala/coding-raja-internship-2.git
 cd coding-raja-internship-2
 python -m venv venv
 # Windows:
